@@ -1,0 +1,300 @@
+Date: 17/6/2022
+Time: 19:32
+Group ID: GnEChnU2YjaEa4KFXNDhci
+Message: Hey All!
+--------------------
+Date: 17/6/2022
+Time: 19:34
+Group ID: GnEChnU2YjaEa4KFXNDhci
+Message: Hey All!
+--------------------
+Date: 17/6/2022
+Time: 19:37
+Group ID: GnEChnU2YjaEa4KFXNDhci
+Message: Testando Mensagem Python by GregMaster
+--------------------
+Date: 17/6/2022
+Time: 19:38
+Group ID: GnEChnU2YjaEa4KFXNDhci
+Message: Testando Mensagem Python by GregMaster
+--------------------
+Date: 17/6/2022
+Time: 19:41
+Group ID: GnEChnU2YjaEa4KFXNDhci
+Message: Testando Mensagem Python by GregMaster
+--------------------
+Date: 17/6/2022
+Time: 19:48
+Group ID: GnEChnU2YjaEa4KFXNDhci
+Message: Testando Mensagem Python by GregMaster
+--------------------
+Date: 17/6/2022
+Time: 19:51
+Group ID: GnEChnU2YjaEa4KFXNDhci
+Message: Testando Mensagem Python by GregMaster
+--------------------
+Date: 17/6/2022
+Time: 20:26
+Group ID: GnEChnU2YjaEa4KFXNDhci
+Message: Testando Mensagem Python by GregMaster
+--------------------
+Date: 17/6/2022
+Time: 20:29
+Group ID: GnEChnU2YjaEa4KFXNDhci
+Message: Testando Mensagem Python by GregMaster
+--------------------
+Date: 17/6/2022
+Time: 20:53
+Group ID: GnEChnU2YjaEa4KFXNDhci
+Message: Fri, 10 Jun 2022 00:02:16 +0000 | ['Sem categoria'] Olá, mundo! Boas-vindas ao WordPress. Esse é o seu primeiro post. Edite-o ou exclua-o, e então comece a escrever! https://bairroalerta.gregmaster.com.br/2022/06/09/ola-mundo/ Por: ['Gregorio']
+--------------------
+Date: 17/6/2022
+Time: 21:13
+Group ID: GnEChnU2YjaEa4KFXNDhci
+Message: *Fri, 10 Jun 2022 00:02:16 +0000 | ['Sem categoria']* Olá, mundo! Boas-vindas ao WordPress. Esse é o seu primeiro post. Edite-o ou exclua-o, e então comece a escrever! rhttps://bairroalerta.gregmaster.com.br/2022/06/09/ola-mundo/ Por: *['Gregorio']*
+--------------------
+Date: 17/6/2022
+Time: 21:16
+Group ID: GnEChnU2YjaEa4KFXNDhci
+Message: *Fri, 10 Jun 2022 00:02:16 +0000 | ['Sem categoria']* Olá, mundo! Boas-vindas ao WordPress. Esse é o seu primeiro post. Edite-o ou exclua-o, e então comece a escrever! https://bairroalerta.gregmaster.com.br/2022/06/09/ola-mundo/ Por: *['Gregorio']*
+--------------------
+Date: 17/6/2022
+Time: 21:25
+Group ID: GnEChnU2YjaEa4KFXNDhci
+Message: *Fri, 10 Jun 2022 00:02:16 +0000 | ['Sem categoria']* Olá, mundo! Boas-vindas ao WordPress. Esse é o seu primeiro post. Edite-o ou exclua-o, e então comece a escrever! {(dados["link"])} Por: *['Gregorio']*
+--------------------
+Date: 17/6/2022
+Time: 21:32
+Group ID: GnEChnU2YjaEa4KFXNDhci
+Message: *Fri, 17 Jun 2022 17:45:51 +0000 | ['Sem categoria']* Teste do Plugin fsdfsdfs (https://bairroalerta.gregmaster.com.br/2022/06/17/teste-do-plugin/)\ Por: *['Gregorio']*
+--------------------
+Date: 17/6/2022
+Time: 21:54
+Group ID: GnEChnU2YjaEa4KFXNDhci
+Message: *Fri, 10 Jun 2022 00:02:16 +0000 | ['Sem categoria']* Olá, mundo! Boas-vindas ao WordPress. Esse é o seu primeiro post. Edite-o ou exclua-o, e então comece a escrever! ParseResult(scheme='https', netloc='bairroalerta.gregmaster.com.br', path='/2022/06/09/ola-mundo/', params='', query='', fragment='') Por: *['Gregorio']*
+--------------------
+Date: 17/6/2022
+Time: 22:8
+Group ID: GnEChnU2YjaEa4KFXNDhci
+Message: *Fri, 10 Jun 2022 02:01:51 +0000 | ['Sem categoria']* Teste WhatsApp Oi a sadasda *LINK* Por: *['Gregorio']*
+--------------------
+Date: 17/6/2022
+Time: 22:10
+Group ID: GnEChnU2YjaEa4KFXNDhci
+Message: *Fri, 10 Jun 2022 00:02:16 +0000 | ['Sem categoria']* Olá, mundo! Boas-vindas ao WordPress. Esse é o seu primeiro post. Edite-o ou exclua-o, e então comece a escrever! *LINK* Por: *['Gregorio']*
+--------------------
+Date: 17/6/2022
+Time: 22:48
+Group ID: GnEChnU2YjaEa4KFXNDhci
+Message: *Fri, 10 Jun 2022 00:02:16 +0000 | ['Sem categoria']* Olá, mundo! Boas-vindas ao WordPress. Esse é o seu primeiro post. Edite-o ou exclua-o, e então comece a escrever! *LINK* Por: *['Gregorio']*
+--------------------
+Date: 19/6/2022
+Time: 14:23
+Group ID: GnEChnU2YjaEa4KFXNDhci
+Message: *Sat, 18 Jun 2022 03:07:44 +0000 | ['Sem categoria']* ABCASDadsasda adadasdasda link Por: *['Gregorio']*
+--------------------
+Date: 19/6/2022
+Time: 21:19
+Group ID: GnEChnU2YjaEa4KFXNDhci
+Message: *Sat, 18 Jun 2022 03:05:17 +0000 | ['Sem categoria']* sadasdas adadasda https://bairroalerta.gregmaster.com.br/2022/06/18/sadasdas/ Por: *['Gregorio']*
+--------------------
+Date: 19/6/2022
+Time: 21:24
+Group ID: GnEChnU2YjaEa4KFXNDhci
+Message: *Fri, 10 Jun 2022 00:02:16 +0000 | ['Sem categoria']* Olá, mundo! Boas-vindas ao WordPress. Esse é o seu primeiro post. Edite-o ou exclua-o, e então comece a escrever! [Olá, mundo!](https://bairroalerta.gregmaster.com.br/2022/06/09/ola-mundo/) Por: *['Gregorio']*
+--------------------
+Date: 19/6/2022
+Time: 22:2
+Group ID: GnEChnU2YjaEa4KFXNDhci
+Message: *Fri, 10 Jun 2022 02:01:51 +0000 | ['Sem categoria']* Teste WhatsApp Oi a sadasda <https://bairroalerta.gregmaster.com.br/2022/06/09/teste-whatsapp/> Por: *['Gregorio']*
+--------------------
+Date: 19/6/2022
+Time: 22:5
+Group ID: GnEChnU2YjaEa4KFXNDhci
+Message: *Fri, 10 Jun 2022 02:01:51 +0000 | ['Sem categoria']* Teste WhatsApp Oi a sadasda <https://bairroalerta.gregmaster.com.br/2022/06/09/teste-whatsapp/> Por: *['Gregorio']*
+--------------------
+Date: 19/6/2022
+Time: 22:19
+Group ID: GnEChnU2YjaEa4KFXNDhci
+Message: *Fri, 10 Jun 2022 00:02:16 +0000 | ['Sem categoria']* Olá, mundo! Boas-vindas ao WordPress. Esse é o seu primeiro post. Edite-o ou exclua-o, e então comece a escrever! <https://bairroalerta.gregmaster.com.br/2022/06/09/ola-mundo/> Por: *['Gregorio']*
+--------------------
+Date: 19/6/2022
+Time: 22:21
+Group ID: GnEChnU2YjaEa4KFXNDhci
+Message: *Fri, 10 Jun 2022 00:02:16 +0000 | ['Sem categoria']* Olá, mundo! Boas-vindas ao WordPress. Esse é o seu primeiro post. Edite-o ou exclua-o, e então comece a escrever! <https://bairroalerta.gregmaster.com.br/2022/06/09/ola-mundo/> Por: *['Gregorio']*
+--------------------
+Date: 19/6/2022
+Time: 22:30
+Group ID: GnEChnU2YjaEa4KFXNDhci
+Message: *Fri, 10 Jun 2022 00:02:16 +0000 | ['Sem categoria']* Olá, mundo! Boas-vindas ao WordPress. Esse é o seu primeiro post. Edite-o ou exclua-o, e então comece a escrever! <https://bairroalerta.gregmaster.com.br/2022/06/09/ola-mundo/> Por: *['Gregorio']*
+--------------------
+Date: 19/6/2022
+Time: 22:37
+Group ID: GnEChnU2YjaEa4KFXNDhci
+Message: *Fri, 10 Jun 2022 00:02:16 +0000 | ['Sem categoria']* Olá, mundo! Boas-vindas ao WordPress. Esse é o seu primeiro post. Edite-o ou exclua-o, e então comece a escrever! <https://bairroalerta.gregmaster.com.br/2022/06/09/ola-mundo/> Por: *['Gregorio']*
+--------------------
+Date: 19/6/2022
+Time: 22:42
+Group ID: GnEChnU2YjaEa4KFXNDhci
+Message: *Fri, 17 Jun 2022 17:45:51 +0000 | ['Sem categoria']* Teste do Plugin fsdfsdfs <https://bairroalerta.gregmaster.com.br/2022/06/17/teste-do-plugin/> Por: *['Gregorio']*
+--------------------
+Date: 19/6/2022
+Time: 22:51
+Group ID: GnEChnU2YjaEa4KFXNDhci
+Message: *Fri, 10 Jun 2022 00:02:16 +0000 | ['Sem categoria']* Olá, mundo! Boas-vindas ao WordPress. Esse é o seu primeiro post. Edite-o ou exclua-o, e então comece a escrever! <https://bairroalerta.gregmaster.com.br/2022/06/09/ola-mundo/> Por: *['Gregorio']*
+--------------------
+Date: 19/6/2022
+Time: 22:54
+Group ID: GnEChnU2YjaEa4KFXNDhci
+Message: *Fri, 10 Jun 2022 00:02:16 +0000 | ['Sem categoria']* Olá, mundo! Boas-vindas ao WordPress. Esse é o seu primeiro post. Edite-o ou exclua-o, e então comece a escrever! <https://bairroalerta.gregmaster.com.br/2022/06/09/ola-mundo/> Por: *['Gregorio']*
+--------------------
+Date: 19/6/2022
+Time: 23:3
+Group ID: GnEChnU2YjaEa4KFXNDhci
+Message: *Fri, 10 Jun 2022 00:02:16 +0000 | ['Sem categoria']* Olá, mundo! Boas-vindas ao WordPress. Esse é o seu primeiro post. Edite-o ou exclua-o, e então comece a escrever! <https://bairroalerta.gregmaster.com.br/2022/06/09/ola-mundo/> Por: *['Gregorio']*
+--------------------
+Date: 19/6/2022
+Time: 23:17
+Group ID: GnEChnU2YjaEa4KFXNDhci
+Message: *Fri, 10 Jun 2022 00:02:16 +0000 | ['Sem categoria']* Olá, mundo! Boas-vindas ao WordPress. Esse é o seu primeiro post. Edite-o ou exclua-o, e então comece a escrever! Por: *['Gregorio']*
+--------------------
+Date: 19/6/2022
+Time: 23:21
+Group ID: GnEChnU2YjaEa4KFXNDhci
+Message: *Fri, 10 Jun 2022 00:02:16 +0000 | ['Sem categoria']* Olá, mundo! Boas-vindas ao WordPress. Esse é o seu primeiro post. Edite-o ou exclua-o, e então comece a escrever! Por: *['Gregorio']*
+--------------------
+Date: 19/6/2022
+Time: 23:24
+Group ID: GnEChnU2YjaEa4KFXNDhci
+Message: *Fri, 10 Jun 2022 00:02:16 +0000 | ['Sem categoria']* Olá, mundo! Boas-vindas ao WordPress. Esse é o seu primeiro post. Edite-o ou exclua-o, e então comece a escrever! https://bairroalerta.gregmaster.com.br/2022/06/09/ola-mundo/ Por: *['Gregorio']*
+--------------------
+Date: 19/6/2022
+Time: 23:25
+Group ID: GnEChnU2YjaEa4KFXNDhci
+Message: *Fri, 10 Jun 2022 02:01:51 +0000 | ['Sem categoria']* Teste WhatsApp Oi a sadasda https://bairroalerta.gregmaster.com.br/2022/06/09/teste-whatsapp/ Por: *['Gregorio']*
+--------------------
+Date: 19/6/2022
+Time: 23:27
+Group ID: GnEChnU2YjaEa4KFXNDhci
+Message: *Fri, 10 Jun 2022 00:02:16 +0000 | ['Sem categoria']* Olá, mundo! Boas-vindas ao WordPress. Esse é o seu primeiro post. Edite-o ou exclua-o, e então comece a escrever! https://bairroalerta.gregmaster.com.br/2022/06/09/ola-mundo/ Por: *['Gregorio']*
+--------------------
+Date: 19/6/2022
+Time: 23:31
+Group ID: GnEChnU2YjaEa4KFXNDhci
+Message: *Sat, 18 Jun 2022 02:51:45 +0000 | ['Sem categoria']* Telegram FEED asdasdas https://bairroalerta.gregmaster.com.br/2022/06/17/telegram-feed/ Por: *['Gregorio']*
+--------------------
+Date: 19/6/2022
+Time: 23:34
+Group ID: GnEChnU2YjaEa4KFXNDhci
+Message: *Thu, 16 Jun 2022 23:50:55 +0000 | ['Sem categoria']* Nova noticía! Eu sou um teste https://bairroalerta.gregmaster.com.br/2022/06/16/nova-noticia/ Por: *['Gregorio']*
+--------------------
+Date: 19/6/2022
+Time: 23:40
+Group ID: GnEChnU2YjaEa4KFXNDhci
+Message: *Fri, 10 Jun 2022 00:02:16 +0000 | ['Sem categoria']* Olá, mundo! Boas-vindas ao WordPress. Esse é o seu primeiro post. Edite-o ou exclua-o, e então comece a escrever! https://bairroalerta.gregmaster.com.br/2022/06/09/ola-mundo/ Por: *['Gregorio']*
+--------------------
+Date: 19/6/2022
+Time: 23:43
+Group ID: GnEChnU2YjaEa4KFXNDhci
+Message: *Mon, 20 Jun 2022 02:43:02 +0000 | ['Trabalho']* Amanhã é segunda Amanhã é dia de trabalhar. Coloca o relogio para despertar e não perca o busão hein! https://bairroalerta.gregmaster.com.br/2022/06/19/amanha-e-segunda/ Por: *['Gregorio']*
+--------------------
+Date: 21/6/2022
+Time: 9:58
+Group ID: GnEChnU2YjaEa4KFXNDhci
+Message: *Teste Tah | ['Sem categoria']* isso é um teste Leia mais em: https://bairroalerta.gregmaster.com.br/2022/06/21/teste-tah/ Por: *['Tamires do Espirito Santo Araujo']*
+--------------------
+Date: 21/6/2022
+Time: 10:1
+Group ID: GnEChnU2YjaEa4KFXNDhci
+Message: *Teste Tah | ['Sem categoria']* isso é um teste Leia mais em: https://bairroalerta.gregmaster.com.br/2022/06/21/teste-tah/ Por: *['Tamires do Espirito Santo Araujo']*
+--------------------
+Date: 21/6/2022
+Time: 10:3
+Group ID: GnEChnU2YjaEa4KFXNDhci
+Message: *Teste Tah | ['Sem categoria']* isso é um teste Leia mais em: https://bairroalerta.gregmaster.com.br/2022/06/21/teste-tah/ Por: *['Tamires do Espirito Santo Araujo']*
+--------------------
+Date: 21/6/2022
+Time: 10:6
+Group ID: GnEChnU2YjaEa4KFXNDhci
+Message: *Teste Tah | ['Sem categoria']* isso é um teste Leia mais em: https://bairroalerta.gregmaster.com.br/2022/06/21/teste-tah/ Por: *['Tamires do Espirito Santo Araujo']*
+--------------------
+Date: 21/6/2022
+Time: 12:9
+Group ID: GnEChnU2YjaEa4KFXNDhci
+Message: *Teste Tah | ['Saúde', 'Trabalho']* BABABAABABABABABBA Leia mais em: https://bairroalerta.gregmaster.com.br/2022/06/21/teste-tah/ Por: *Tamires do Espirito Santo Araujo*
+--------------------
+Date: 23/6/2022
+Time: 18:26
+Group ID: GnEChnU2YjaEa4KFXNDhci
+Message: *Este é um teste de um usuário comum | ['Geral']* tá bom Greg Leia mais em: https://bairroalerta.gregmaster.com.br/2022/06/21/este-e-um-teste-de-um-usuario-comum/ Por: *Tamires Univesp*
+--------------------
+Date: 23/6/2022
+Time: 18:27
+Group ID: GnEChnU2YjaEa4KFXNDhci
+Message: *Rede de supermercados abre mais de 500 vagas de emprego em Sorocaba | ['Trabalho']* Vagas são para todos os setores da loja, desde o açougue até a floricultura. Saiba como se candidatar. Leia mais em: https://bairroalerta.gregmaster.com.br/2022/06/21/teste-tah/ Por: *Tamires do Espirito Santo Araujo*
+--------------------
+Date: 23/6/2022
+Time: 18:28
+Group ID: GnEChnU2YjaEa4KFXNDhci
+Message: *Amanhã é segunda | ['Trabalho']* Amanhã é dia de trabalhar. Coloca o relogio para despertar e não perca o busão hein! Leia mais em: https://bairroalerta.gregmaster.com.br/2022/06/19/amanha-e-segunda/ Por: *Gregorio*
+--------------------
+Date: 23/6/2022
+Time: 18:28
+Group ID: GnEChnU2YjaEa4KFXNDhci
+Message: *Novos horários Expresso Brigadeiro Tobias | ['Horário', 'Ônibus']* Linha do ônibus Expresso Brigadeiro Tobias tem novos horários. Clique abaixo para saber mais Leia mais em: https://bairroalerta.gregmaster.com.br/2022/06/18/abcasdadsasda/ Por: *Gregorio*
+--------------------
+Date: 23/6/2022
+Time: 18:29
+Group ID: GnEChnU2YjaEa4KFXNDhci
+Message: *Acidente na Raposo em Brigadeiro Tobias interdita a rodovia | ['Mobilidade', 'Trânsito', 'Vias Públicas']* A rodovia precisou ser interditada nos dois sentidos e o tráfego está sendo desviado pelo bairro Brigadeiro Tobias. Leia mais em: https://bairroalerta.gregmaster.com.br/2022/06/18/sadasdas/ Por: *Gregorio*
+--------------------
+Date: 23/6/2022
+Time: 18:30
+Group ID: GnEChnU2YjaEa4KFXNDhci
+Message: *Nova estratégia de vacinação contra a Covid-19 nos bairros a partir da próxima semana | ['Saúde']* Ação ocorrerá nas 33 Unidades Básicas de Saúde (UBS), das 9h às 15h, sem a necessidade de agendamento Leia mais em: https://bairroalerta.gregmaster.com.br/2022/06/18/testeas-as-as/ Por: *Gregorio*
+--------------------
+Date: 23/6/2022
+Time: 18:31
+Group ID: GnEChnU2YjaEa4KFXNDhci
+Message: *Telefone de Uber em Brigadeiro Tobias e calcular preço da corrida de Uber | ['Geral', 'Uber']* Encontre o telefone de Uber em Brigadeiro Tobias, Sorocaba - São Paulo mais próximos de você e faça o calculo do preço da corrida do Uber a partir de Brigadeiro Tobias on-line. Leia mais em: https://bairroalerta.gregmaster.com.br/2022/06/17/telegram-feed/ Por: *Gregorio*
+--------------------
+Date: 23/6/2022
+Time: 18:32
+Group ID: GnEChnU2YjaEa4KFXNDhci
+Message: *Vereador Fabio Simoa eleito conta sobre a sua infância no bairro Brigadeiro Tobias | ['Política']* O novo vereador foi eleito pelo Republicanos e é oriundo da região de Brigadeiro Tobias Leia mais em: https://bairroalerta.gregmaster.com.br/2022/06/17/teste-123/ Por: *Gregorio*
+--------------------
+Date: 23/6/2022
+Time: 18:33
+Group ID: GnEChnU2YjaEa4KFXNDhci
+Message: *Lugares para viajar em julho: 6 alternativas para as férias | ['Geral', 'Viagem']* Confira as sugestões de lugares para viajar em julho e desfrutar das férias com planejamento, no melhor mês em cada destino. Leia mais em: https://bairroalerta.gregmaster.com.br/2022/06/17/teste-do-plugin/ Por: *Gregorio*
+--------------------
+Date: 23/6/2022
+Time: 18:34
+Group ID: GnEChnU2YjaEa4KFXNDhci
+Message: *Livro Historias de Brigadeiro Tobias Sorocaba SP – Mauricio Rodrigues da Silva | ['Cultura', 'Geral']* Livro sobre a história do bairro é publicado e vendido pela internet. Leia mais em: https://bairroalerta.gregmaster.com.br/2022/06/16/nova-noticia/ Por: *Gregorio*
+--------------------
+Date: 23/6/2022
+Time: 18:58
+Group ID: GnEChnU2YjaEa4KFXNDhci
+Message: *Este é um teste de um usuário comum | ['Geral']* tá bom Greg Leia mais em: https://bairroalerta.gregmaster.com.br/2022/06/21/este-e-um-teste-de-um-usuario-comum/ Por: *Tamires Univesp*
+--------------------
+Date: 23/6/2022
+Time: 19:56
+Group ID: GnEChnU2YjaEa4KFXNDhci
+Message: *Gatinho perdido | ['Geral']* Meu gato sumiu... atende por Saci. Leia mais em: https://bairroalerta.gregmaster.com.br/2022/06/23/gatinho-perdido/ Por: *Tamires Univesp*
+--------------------
+Date: 23/6/2022
+Time: 19:57
+Group ID: GnEChnU2YjaEa4KFXNDhci
+Message: *Gatinho perdido | ['Geral']* Meu gato sumiu... atende por Saci. Leia mais em: https://bairroalerta.gregmaster.com.br/2022/06/23/gatinho-perdido/ Por: *Tamires Univesp*
+--------------------
+Date: 23/6/2022
+Time: 19:59
+Group ID: GnEChnU2YjaEa4KFXNDhci
+Message: *Gatinho perdido | ['Geral']* Meu gato sumiu... atende por Saci. Leia mais em: https://bairroalerta.gregmaster.com.br/2022/06/23/gatinho-perdido/ Por: *Tamires Univesp*
+--------------------
+Date: 23/6/2022
+Time: 20:27
+Group ID: GnEChnU2YjaEa4KFXNDhci
+Message: *Greve de Onibus no Bairro de Brigadeiro Tobias | ['Horário', 'Mobilidade', 'Ônibus']* Linha 1 não está rodando desde as 7h da manhã Leia mais em: https://bairroalerta.gregmaster.com.br/2022/06/23/greve-de-onibus-no-bairro-de-brigadeiro-tobias/ Por: *Tamires Univesp*
+--------------------
